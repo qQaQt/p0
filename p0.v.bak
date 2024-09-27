@@ -1,0 +1,7 @@
+module p0(
+	input clk;
+	output clk1;
+);
+begin
+	clk1 <= clk;
+endmodule
